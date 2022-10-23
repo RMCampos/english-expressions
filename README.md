@@ -1,2 +1,3 @@
 # engish-expressions
-A simple app to learn about American English expression
+
+[Plain Text] This repository contains a list with English expressions. And no  code or language at all.
